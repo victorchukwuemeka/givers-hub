@@ -1,10 +1,3 @@
-* text=auto eol=lf
-*.blade.php diff=html
-*.css diff=css
-*.html diff=html
-*.md diff=markdown
-*.php diff=php
-/.github export-ignore
-CHANGELOG.md export-ignore
-.styleci.yml export-ignore
-/web/wonder filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:d50f5089661e5ee4f61f69f1ed2dfea09b6046a3636e9070273af39fe8ce536f
+size 251
